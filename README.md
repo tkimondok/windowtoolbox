@@ -27,7 +27,6 @@ It's Completely Safe to use because everything is reversible
 10. Activate MS office (All version)
 11. Activate Windows 8, 10, 11 
 
-<<<<<<< HEAD
 ### Other Option (On/Off)
 12. Cortana
 13. Action center
