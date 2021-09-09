@@ -23,7 +23,6 @@ It's Completely Safe to use because everything is reversible
 8. Disable Microsoft Store
 9. Get rid of Start Menu tiles
 
-<<<<<<< HEAD
 ### Activation
 10. Activate MS office (All version)
 11. Activate Windows 8, 10, 11 
