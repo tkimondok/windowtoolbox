@@ -60,13 +60,13 @@ Start powershell with admin right and paste the following link and enter. <br />
 Video Guide: ```https://youtu.be/uOf_wH6jSEE``` <br /><br />
 
 <img src="https://raw.githubusercontent.com/tkimondok/windowtoolbox/main/how%20to%20run%20toolbox.jpg" alt="text" width="550"> <br />
-<img src="https://raw.githubusercontent.com/tkimondok/windowtoolbox/powershell-windows-toolbox/main/how%20to%20use%20powershell.JPG" alt="text" width="650"> <br />
+<img src="https://raw.githubusercontent.com/tkimondok/windowtoolbox/main/how%20to%20use%20powershell.JPG" alt="text" width="650"> <br />
 ## Window Toolbox Preview 
 <br />
 
 
 <p float="left">
-<img src="https://raw.githubusercontent.com/tkimondok/Toolbox/main/Tool-box.png" alt="text" width="750">
+<img src="https://raw.githubusercontent.com/tkimondok/windowtoolbox/main/Tool-box.png" alt="text" width="750">
 </p>
 
 
