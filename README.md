@@ -66,7 +66,7 @@ Video Guide: ```https://youtu.be/uOf_wH6jSEE``` <br /><br />
 
 
 <p float="left">
-<img src="https://raw.githubusercontent.com/PsWinToolbox/Toolbox/main/Tool-box.png" alt="text" width="750">
+<img src="[https://raw.githubusercontent.com/PsWinToolbox/Toolbox/main/Tool-box.png](https://github.com/tkimondok/windowtoolbox/blob/main/Tool-box.png)" alt="text" width="750">
 </p>
 
 
